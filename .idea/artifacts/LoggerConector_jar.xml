@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoggerConector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoggerConector_jar</output-path>
+    <root id="archive" name="LoggerConector.jar">
+      <element id="module-output" name="LoggerConector" />
+      <element id="library" level="project" name="Libs" />
+    </root>
+  </artifact>
+</component>
